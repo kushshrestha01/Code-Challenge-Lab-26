@@ -27,6 +27,6 @@ Describe in detail how the algorithm works. Include small code snippets to possi
 [Video](https://www.youtube.com/watch?v=i-SKeOcBwko)
 
 ## Read
-[Article 1](http://www.geekinterview.com/question_details/67252)
+[Article 1](https://www.interviewbit.com/tutorial/insertion-sort-algorithm/)
 
 [Article 2](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html)
