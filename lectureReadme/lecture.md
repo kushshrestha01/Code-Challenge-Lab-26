@@ -1,5 +1,5 @@
 # Insertion Sort Algorithm
-This algorithm is is about sort the given int array.
+Insertion sort Algorithm to sort the given int array.
 
 ## Learning Objectives
 To learn the use of insertionSort method that sorts the given int array
