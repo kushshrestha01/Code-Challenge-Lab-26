@@ -24,7 +24,7 @@ Describe in detail how the algorithm works. Include small code snippets to possi
 
 ## Readings and References
 ## Watch Video
-[Video](https://www.youtube.com/watch?v=3CJq3XV2PBU)
+[Video](https://www.youtube.com/watch?v=i-SKeOcBwko)
 
 ## Read
 [Article 1](http://www.geekinterview.com/question_details/67252)
