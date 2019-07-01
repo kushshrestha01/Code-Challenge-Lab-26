@@ -29,4 +29,6 @@ Describe in detail how the algorithm works. Include small code snippets to possi
 ## Read
 [Article 1](https://www.interviewbit.com/tutorial/insertion-sort-algorithm/)
 
-[Article 2](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html)
+[Article 2](https://www.geeksforgeeks.org/insertion-sort/)
+
+[Article 3](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html)
