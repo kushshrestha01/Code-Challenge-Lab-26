@@ -15,4 +15,12 @@ public class InsertionSortAlgorithmTest {
 
     }
 
+    @Test (expected=NullPointerException.class)
+    public void testNullArray() {
+        InsertionSortAlgorithm test = new InsertionSortAlgorithm();
+        int[] arr = {};
+        test.insertionSort(arr);
+
+    }
+
 }

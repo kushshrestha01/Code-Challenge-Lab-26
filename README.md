@@ -10,5 +10,4 @@ Used the Pseudo code to write the code
 ## Solution
 ![Whiteboard](images/whiteboard.jpeg) <br/>
 
-
 ## [Lecture](lectureReadme/lecture.md)
