@@ -9,7 +9,6 @@ Arrays are used to store multiple values in a single variable, instead of declar
 Sorting is important in programming as it makes it  easier and faster to locate items when it is sorted. Insertion sort is the sorting mechanism where the sorted array is built having one item at a time.
    
 ### Another main point
-More details<br/>
 If the data are sorted it is easier to analyse duplicate entities. <br/>
 If the data are sorted it is easier to compare two arrays. <br/>
 If the data are sorted it is easier to find any int in that array. <br/>
