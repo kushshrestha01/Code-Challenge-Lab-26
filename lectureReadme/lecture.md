@@ -1,4 +1,4 @@
-#Lecture Notes: Merge Sort
+# Lecture Notes: Merge Sort
 This algorithm is is about sort the given int array.
 
 ## Learning Objectives
