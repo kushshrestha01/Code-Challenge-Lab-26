@@ -6,9 +6,9 @@ To learn the use of insertionSort method that sorts the given int array
 
 ## Lecture Flow
 Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value. <br/>
-Sorting is important in programming as it makes it  easier and faster to locate items when it is sorted.
+Sorting is important in programming as it makes it  easier and faster to locate items when it is sorted. Insertion sort is the sorting mechanism where the sorted array is built having one item at a time.
    
-###Another main point
+### Another main point
 More details<br/>
 If the data are sorted it is easier to analyse duplicate entities. <br/>
 If the data are sorted it is easier to compare two arrays. <br/>
